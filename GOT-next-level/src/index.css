@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400;500;600;700&family=IM+Fell+English:ital@0;1&display=swap');
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; background: #020201; }
+body { margin: 0; background: #020201; overflow-x: hidden; }
+button, a { font: inherit; }
+::selection { background: rgba(201,168,76,.35); color: #fff; }
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #030201; }
+::-webkit-scrollbar-thumb { background: linear-gradient(#c9a84c, #5a4320); border-radius: 99px; }
